@@ -1,0 +1,124 @@
+#logo {
+    padding-top: 109px;
+    width: 272px;
+    height: 92px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#image_logo {
+    padding-top: 109px;
+    width: 272px;
+    height: 92px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search {
+    position: relative;
+    margin: 0 auto;
+    display: table;
+}
+
+.image_search {
+    position: relative;
+    margin: 0 auto;
+    display: table;
+}
+
+#search_bar {
+    padding-top: 6px;
+    width: 484px;
+    height: 35px;
+    border: 1px solid #dfe1e5;
+    border-radius: 25px;
+    display: flex;
+    }
+
+    #image_search_bar {
+        padding-top: 6px;
+        width: 484px;
+        height: 35px;
+        border: 1px solid #dfe1e5;
+        border-radius: 25px;
+        display: flex;
+        } 
+    
+#search_button {
+    align-items: center;
+    background-color: #f5f5f5;
+    border: 1px solid #f2f2f2;
+    border-radius: 3px;
+    color: #5F6368;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin-top: 11px;
+    margin-right: 4px;
+    margin-bottom: 11px;
+    margin-left: 4px;
+    padding-top: 0px;
+    padding-right: 16px;
+    padding-bottom: 0px;
+    padding-left: 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+}
+
+#search_button:hover {
+
+}
+
+#image_search_button {
+    background-color: #f5f5f5;
+    border: 1px solid #f2f2f2;
+    border-radius: 3px;
+    color: #5F6368;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin-top: 11px;
+    margin-right: 4px;
+    margin-bottom: 11px;
+    margin-left: 4px;
+    padding-top: 0px;
+    padding-right: 16px;
+    padding-bottom: 0px;
+    padding-left: 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.link_bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    text-align: right;
+    font-size: 14px;
+}
+
+
+
+#images {
+    text-align: left;
+    display: inline-block;
+    line-height: 24px;
+    outline: none;
+    vertical-align: middle;
+    padding-left: 0;
+    position: relative;
+}
+
